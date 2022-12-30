@@ -1,4 +1,5 @@
-﻿namespace NZWalks.API.Models.Domain
+﻿
+namespace NZWalks.API.Models.DTO
 {
     public class Walk
     {
